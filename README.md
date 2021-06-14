@@ -1,18 +1,10 @@
-Using deep learning to compose one image in the style of another image (ever wish you could paint like Picasso or Van Gogh?). This is known as neural style transfer and the technique is outlined in A Neural Algorithm of Artistic Style (
+Using deep learning to compose one image in the style of another image (ever wish you could paint like Picasso or Van Gogh?). This is known as neural style transfer and the technique is outlined in A Neural Algorithm of Artistic Style.
+
 <h3 align="center">
   <img src="assets/style_transfer_web.png" width="300">
 </h3>
 
-
-# Style Transfer
-
 Style Transfer is a process in which we strive to modify the style of an image while preserving its content. Given an input image and a style image, we can compute an output image with the original content but a new style.
-
-[Kaggle kernel](https://www.kaggle.com/greg115/style-transfer)
-
-Check out corresponding Medium article:
-
-[Style Transfer - Styling Images with Convolutional Neural Networks](https://towardsdatascience.com/style-transfer-styling-images-with-convolutional-neural-networks-7d215b58f461)
 
 <h3 align="center">
   <img src="assets/combined.png">
